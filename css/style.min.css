@@ -1,2 +1,1 @@
-*{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box}
-/*# sourceMappingURL=style.min.css.map */
+*{margin:0;padding:0;box-sizing:border-box}.container{max-width:1600px;margin:0 auto}h1{padding:30px;font-size:5em;text-align:center}#img-div{text-align:center}#img-div #image{display:block;max-width:80%;margin:0 auto;border-radius:20px}#img-div #img-caption{padding:20px;font-size:2em}#tribute-info{padding:50px;background-color:gray;border-radius:20px}#tribute-info p{color:#fff;font-size:1.5em;padding-bottom:20px}footer{padding:30px;text-align:center;font-size:1.5em}footer a{color:blue}/*# sourceMappingURL=style.min.css.map */

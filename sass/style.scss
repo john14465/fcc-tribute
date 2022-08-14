@@ -3,3 +3,52 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+h1 {
+    padding: 30px;
+    font-size: 5em;
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+    #image {
+        display: block;
+        max-width: 80%;
+        margin: 0 auto;
+        border-radius: 20px;
+    }
+    
+    #img-caption {
+        padding: 20px;
+        font-size: 2em;
+    }
+}
+
+#tribute-info {
+    padding: 50px;
+    background-color: grey;
+    border-radius: 20px;
+    p {
+        color: white;
+        font-size: 1.5em;
+        padding-bottom: 20px;
+    }
+}
+
+footer {
+    padding: 30px;
+    text-align: center;
+    font-size: 1.5em;
+    a {
+        color: blue;
+    }
+}
+
+
+
